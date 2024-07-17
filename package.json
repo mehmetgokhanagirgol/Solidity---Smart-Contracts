@@ -1,0 +1,11 @@
+{
+  "name": "Solidity---Smart-Contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mehmetgokhanagirgol/Solidity---Smart-Contracts.git",
+  "author": "gokhan.agirgol <gokhan.agirgol@techsign.com.tr>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.22.6"
+  }
+}
